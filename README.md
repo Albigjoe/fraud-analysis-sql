@@ -2,6 +2,7 @@
 This repository contains SQL queries used for exploratory data analysis on a fraud dataset. The goal is to uncover patterns and insights that differentiate fraudulent transactions from legitimate ones, identify high-risk users and channels, and quantify fraud rates by various dimensions like location, card type, and transaction method.
 
 ✅ Key SQL Operations
+
 1). Duplicate Check
 
 2).Identifies repeated transactions by checking Transaction_ID.
