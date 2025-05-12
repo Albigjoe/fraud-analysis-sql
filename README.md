@@ -46,6 +46,7 @@ This repository contains SQL queries used for exploratory data analysis on a fra
 21).Merchant categories most associated with fraud.
 
 **🔍 Sample Insights**
+
 1).Which transaction types are most vulnerable?
 
 2).Which locations and devices see the most fraud?
